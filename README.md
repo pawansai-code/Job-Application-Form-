@@ -6,17 +6,17 @@ This is a basic job application form I created using HTML and CSS. It helped me 
 
 What You Can Learn from This Project
 # HTML: 
-Form layout and structure
+- Form layout and structure
 
-Input fields (text, email, number, file upload, etc.)
+- Input fields (text, email, number, file upload, etc.)
 
-Labels and buttons
+- Labels and buttons
 
 # CSS:
-Basic styling for input fields and buttons
+- Basic styling for input fields and buttons
 
-Adding hover effects and smooth transitions
+- Adding hover effects and smooth transitions
 
-Using media queries to make the form responsive on different screen sizes
+- Using media queries to make the form responsive on different screen sizes
 
 Feel free to explore, fork, or use it as a reference for your own practice!
