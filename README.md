@@ -8,7 +8,7 @@ What You Can Learn from This Project
 # HTML: 
 - Form layout and structure
 
-- Input fields (text, email, number, file upload, etc.)
+- Input fields (text, email, DOB, file upload, etc.)
 
 - Labels and buttons
 
